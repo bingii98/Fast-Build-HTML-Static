@@ -28,17 +28,16 @@
 All your task has config in this file. \
 Please watch and short learn gulp task.\
 If you only want run for your work so forward after code.\
-**Code for only complite all**\
+**Code for only complite all**
 > gulp watch\
-\
 
-**Code for complite from scss to css and syns browser**\
+
+**Code for complite from scss to css and syns browser**
 > gulp watch-bs\
-\
-\
 
-**Code for complite from scss to css and syns browser**\
+
+**Code for complite from scss to css and syns browser**
 > gulp sass\
-\
 
-**Wacth task name and funtion in gulpfile.js**\
+
+**Wacth task name and funtion in gulpfile.js**
