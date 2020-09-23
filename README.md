@@ -19,7 +19,7 @@
 >________theme.scss\
 >__gulpconfig.json\
 >__gulpfile.js\
->__package.json\
+>__package.json
 
 *Create your **SCSS** file and **Import** it in theme.scss file*\
 *Ex: @import "theme/theme";*\
