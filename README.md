@@ -1,6 +1,6 @@
 # Fast Build HTML Static
 **Manage your task when build html static or something same**\
-*This source used bootstrap, so remove if don;t use it.*\
+*This source used bootstrap, so remove if don;t use it.*
 ### First run Node install package needed:
 > npm i
 
@@ -20,11 +20,11 @@
 >__gulpconfig.json\
 >__gulpfile.js\
 >__package.json\
-\
+
 *Create your **SCSS** file and **Import** it in theme.scss file*\
 *Ex: @import "theme/theme";*\
 \
-***Manage your task in gulpfile.js***
+***Manage your task in gulpfile.js***\
 All your task has config in this file. \
 Please watch and short learn gulp task.\
 If you only want run for your work so forward after code.\
