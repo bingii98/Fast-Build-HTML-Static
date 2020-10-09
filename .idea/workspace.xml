@@ -1,132 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1202149-154e-4356-8556-b1917eeeff0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/3D-CV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/assets/bootstrap4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/assets/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/assets/underscores.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/theme/_keyframes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/theme/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/theme/_variable.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/js/skip-link-focus-fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/bootstrap4/vendor/_rfs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/fontawesome/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/underscores/_captions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/underscores/_galleries.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/src/sass/underscores/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/custom-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/swiper/swiper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/bootstrap4/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/bootstrap4/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/fontawesome/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/underscores/_captions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/underscores/_galleries.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/sass/underscores/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/gulpconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,9 +152,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Sass File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -149,6 +162,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1htv7Ncyw6gH5rN2b57ch4FFvev" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -156,19 +172,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Octob\Desktop\3D-CV\assets\sass" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Octob\OneDrive\Desktop\Fast-build-HTML-static\src\js" />
       <recent name="C:\Users\Octob\Desktop\3D-CV\assets" />
       <recent name="C:\Users\Octob\Desktop\3D-CV\assets\sass\assets" />
       <recent name="C:\Users\Octob\Desktop\3D-CV" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Octob\OneDrive\Desktop\Fast-build-HTML-static\src\sass" />
+      <recent name="C:\Users\Octob\Desktop\3D-CV\assets\sass" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -181,10 +199,22 @@
       <updated>1600843034632</updated>
       <workItem from="1600843035684" duration="916000" />
       <workItem from="1600844558010" duration="617000" />
+      <workItem from="1602216497869" duration="931000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

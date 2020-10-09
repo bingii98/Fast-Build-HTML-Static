@@ -5,7 +5,7 @@
 	},
 	"browserSyncWatchFiles": ["./assets/css/*.min.css", "./assets/js/*.min.js", "./assets/**/*.php"],
 	"paths": {
-		"js": "./assets/assets/js",
+		"js": "./assets/js",
 		"css": "./assets/css",
 		"img": "./assets/img",
 		"imgsrc": "./assets/src/img",

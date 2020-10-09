@@ -148,15 +148,13 @@ gulp.task('browser-sync', function() {
 gulp.task('scripts', function() {
     var scripts = [
         // Start - All BS4 stuff
+        `${paths.dev}/js/jquery.js`,
         `${paths.dev}/js/bootstrap4/bootstrap.bundle.js`,
-
-        // End - All BS4 stuff
-
-        `${paths.dev}/js/skip-link-focus-fix.js`,
+        `${paths.dev}/js/swiper/swiper-bundle.min.js`,
 
         // Adding currently empty javascript file to add on for your own themes´ customizations
         // Please add any customizations to this .js file only!
-        `${paths.dev}/js/custom-javascript.js`
+        `${paths.dev}/js/script.js`,
     ];
     gulp
         .src(scripts, { allowEmpty: true })
@@ -238,6 +236,7 @@ gulp.task('clean-vendor-assets', function() {
         `${paths.dev}/sass/underscores/**`,
         `${paths.dev}/js/skip-link-focus-fix.js`,
         `${paths.js}/**/skip-link-focus-fix.js`,
+        `${paths.js}/**/custom-javascript.js`,
         `${paths.js}/**/popper.min.js`,
         `${paths.js}/**/popper.js`,
         paths.vendor !== '' ? paths.js + paths.vendor + '/**' : ''
